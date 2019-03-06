@@ -1,0 +1,98 @@
+/* @import url('https://fonts.googleapis.com/css?family=Coda+Caption:800'); */
+
+.headdiv{
+	justify-content: center;
+}
+
+.banner{
+	width: 100%;
+	height: 100%;
+}
+
+.formhead{
+	text-align: center;
+	font-size: 32px;
+	font-weight: bold;
+	color: #007bff;
+}
+
+.form-row{
+	justify-content: center;
+}
+
+.card{
+	border: 1px solid rgba(0,0,0,.05);
+    border-radius: .0rem;
+    font-size: 16px;
+    color: #ffffff; 
+    background-color: #007bff;
+}
+
+.card-header{
+	text-align: center;
+	border: 0px;
+	background-color: #007bff;
+}
+
+.card-header > a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.card-header > a:hover{
+	font-weight: bold;
+}
+
+.copyright{
+	background-color: #444444;
+	color: #cccccc;
+}
+
+.th-rules{
+	color: #ff0000;
+}
+
+.th-login{
+	background-color:#999; 
+	border-radius:5px 50px;
+	font-weight: bold; 
+	color: #00FF00;
+	text-align: center;
+}
+
+.msg{
+		font-size: 12px;
+		font-weight: bold;
+		color: #FF0000;
+		letter-spacing: 1px;
+	}
+
+.div-login{
+	background-color: #555555;
+	border: 1px solid #AAAAAA;
+	border-radius: 50px;
+	color: #cccccc;
+}
+
+.newuser{
+	justify-content: center;
+	text-align: center;
+}
+
+.grouppanel {
+	font-size: 12px;
+	padding: 0px;
+	color: #cccccc;
+	background-color: #333333;
+	text-align: center;
+	border: 0px;
+}
+
+.grouppanel a{
+	color: #888888;
+}
+
+.grouppanel a:hover{
+	font-weight: bold;
+	text-decoration: none;
+}
