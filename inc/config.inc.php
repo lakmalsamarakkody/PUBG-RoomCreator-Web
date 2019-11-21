@@ -3,7 +3,7 @@
 // APP
 define('APP_TITLE', 'PUBG Room');
 define('APP_PRT', 'http');
-define('APP_DOM', 'localhost/sites/pubgroom');
+define('APP_DOM', 'pubgroom.localhost');
 define('APP_FQDN', APP_PRT.'://'.APP_DOM);
 
 // DATABASE
